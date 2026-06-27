@@ -6,7 +6,7 @@
 ---
 
 ## 👩‍💻 About Me
-I am a Master's student in Cybersecurity based in Brisbane, Australia 🇦🇺 with a strong interest in Digital Forensics and Security Operations.
+I am a Masters Graduate in Cybersecurity based in Brisbane, Australia 🇦🇺 with a strong interest in Digital Forensics and Security Operations.
 
 I enjoy working on hands-on labs, analysing security incidents, and building practical skills using real-world tools like Splunk and TryHackMe.
 
