@@ -1,88 +1,185 @@
 # Hello, I'm Ivy 👋
+
 <a href="https://www.linkedin.com/in/ivy-talam-786163240">
-<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/-LinkedIn-0072B1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 ---
 
-## 👩‍💻 About Me
-I am a Masters Graduate in Cybersecurity based in Brisbane, Australia 🇦🇺 with a strong interest in Digital Forensics and Security Operations.
+# 👩‍💻 About Me
 
-I enjoy working on hands-on labs, analysing security incidents, and building practical skills using real-world tools like Splunk and TryHackMe.
+I am a Cybersecurity professional based in Brisbane, Australia 🇦🇺, holding a Master's degree in Cybersecurity with a strong focus on Security Operations, Digital Forensics, and Incident Response.
 
----
+I enjoy investigating security events, analysing logs, identifying threats, and solving real-world security challenges through practical, hands-on experience. I continuously expand my technical expertise through cybersecurity labs, security research, and practical projects involving SIEM platforms, digital forensic investigations, and threat detection.
 
-## 🎯 Objective
-Motivated cybersecurity student seeking an entry-level role as a **SOC Analyst (Tier 1)** where I can apply my skills in log analysis, threat detection, and incident response.
+I am passionate about protecting organisations from evolving cyber threats and building practical defensive security skills that translate directly into Security Operations Centre (SOC) environments.
 
 ---
 
-## 🧠 Skills
+# 🎯 Career Objective
 
-| Skill                                         | Associated Project |
-|----------------------------------------------|------------------|
-| SIEM Log Analysis (Splunk)                   | <a href="https://github.com/YOURUSERNAME/splunk-lab">Splunk Monitoring Lab</a> |
-| Threat Detection & Investigation             | <a href="https://github.com/YOURUSERNAME/ctf-writeups">CTF Writeups</a> |
-| Digital Forensics (Autopsy, FTK Imager)      | <a href="https://github.com/YOURUSERNAME/digital-forensics">Forensics Case Study</a> |
-| Network Fundamentals                         | <a href="https://github.com/YOURUSERNAME/network-labs">Network Labs</a> |
-| Basic Python for Security Automation         | <a href="https://github.com/YOURUSERNAME/python-security-tools">Python Security Scripts</a> |
+To contribute to a high-performing Security Operations Centre as a SOC Analyst, Cybersecurity Analyst, or Digital Forensics Analyst, where I can leverage my analytical mindset, incident investigation skills, and hands-on experience with security monitoring tools to help detect, investigate, and respond to cyber threats.
 
 ---
 
-## 🛠️ Tools
+# 🛡️ Core Skills
 
-### 🔐 SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>
-
-### 🌐 Network Analysis
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
-
-### 🧪 Digital Forensics
-<div>
-    <img src="https://img.shields.io/badge/-Autopsy-4B275F?&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-FTK_Imager-4B275F?&style=for-the-badge" />
-</div>
+| Skill | Related Project |
+|--------------------------------------------|------------------------------------------------|
+| Security Monitoring & SIEM (Splunk) | Splunk Security Monitoring Lab |
+| Threat Detection & Incident Investigation | SOC Investigation Labs |
+| Digital Forensics (Autopsy, FTK Imager) | Digital Forensics Case Study |
+| Network Traffic Analysis (Wireshark) | Network Analysis Labs |
+| Windows Event Log Analysis | Windows Investigation Lab |
+| Linux Fundamentals | Linux Security Labs |
+| Threat Intelligence | Threat Hunting Exercises |
+| Incident Response | Security Investigation Projects |
+| Log Analysis | Splunk Detection Lab |
+| Basic Python for Security Automation | Python Security Utilities |
+| Cyber Threat Hunting | TryHackMe Labs |
+| Network Security Fundamentals | Networking Projects |
 
 ---
 
-## 📜 Certifications
+# 🛠️ Security Tools
+
+## SIEM
+
 <div>
-<img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
+
 </div>
 
 ---
 
-## 🚀 Projects
+## Network Analysis
 
-### 🔍 Splunk Monitoring Lab
-- Analysed logs to detect suspicious activity  
-- Created dashboards and alerts  
-- Simulated real-world SOC environment  
+<div>
 
----
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
 
-### 🛡️ Digital Forensics Case Study
-- Investigated a simulated cybercrime  
-- Used Autopsy & FTK Imager  
-- Documented evidence and findings  
+</div>
 
 ---
 
-### 🧠 CTF Writeups
-- Completed TryHackMe challenges  
-- Documented step-by-step solutions  
-- Focused on privilege escalation & enumeration  
+## Digital Forensics
+
+<div>
+
+<img src="https://img.shields.io/badge/-Autopsy-4B275F?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/-FTK%20Imager-4B275F?style=for-the-badge" />
+
+</div>
 
 ---
 
-## 📫 Connect With Me
--LinkedIn: https://www.linkedin.com/in/ivy-talam-786163240
+## Operating Systems
+
+- Windows
+- Linux
 
 ---
 
-⭐ *Actively building my cybersecurity portfolio and seeking opportunities in SOC & Digital Forensics*
+## Programming
+
+- Python
+- Bash (Basic)
+
+---
+
+# 📜 Certifications
+
+<div>
+
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=TryHackMe"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+## 🔍 Splunk Security Monitoring Lab
+
+Designed a security monitoring environment using Splunk to simulate a Security Operations Centre workflow.
+
+**Highlights**
+
+- Investigated Windows Event Logs
+- Detected suspicious login activity
+- Built dashboards for monitoring
+- Created custom alerts
+- Analysed authentication events
+- Performed log correlation
+
+---
+
+## 🛡️ Digital Forensics Investigation
+
+Conducted a forensic investigation using industry-standard forensic tools to analyse a simulated cyber incident.
+
+**Highlights**
+
+- Acquired forensic evidence
+- Examined disk images
+- Recovered deleted artefacts
+- Analysed file system metadata
+- Produced investigation documentation
+- Maintained evidence integrity
+
+---
+
+## 🧠 TryHackMe & CTF Writeups
+
+Completed practical cybersecurity challenges focused on offensive and defensive security concepts.
+
+Topics covered include:
+
+- Enumeration
+- Privilege Escalation
+- Web Security
+- Linux Fundamentals
+- Windows Security
+- Incident Investigation
+- Log Analysis
+- Network Enumeration
+
+---
+
+# 📚 Areas of Interest
+
+- Security Operations Centre (SOC)
+- Digital Forensics
+- Incident Response
+- Threat Hunting
+- Malware Analysis
+- Security Monitoring
+- Blue Team Operations
+- Cloud Security
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Threat Detection
+- Microsoft Sentinel
+- MITRE ATT&CK Framework
+- DFIR Methodologies
+- Threat Intelligence
+- Detection Engineering
+
+---
+
+# 📫 Connect With Me
+
+🔗 LinkedIn
+
+https://www.linkedin.com/in/ivy-talam-786163240
+
+---
+
+> *Cybersecurity professional committed to continuous learning, practical problem-solving, and helping organisations strengthen their security posture through effective monitoring, investigation, and incident response.*
